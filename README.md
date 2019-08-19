@@ -29,8 +29,7 @@ $ docker-compose up -d
 $ open http://localhost:3000/
 ```
 
-### Nuxt.jsの内容
-Nuxt.js構築時の選択内容。
+### Nuxt.jsの構築内容
 ```
 create-nuxt-app v2.9.2
 ✨  Generating Nuxt.js project in .
