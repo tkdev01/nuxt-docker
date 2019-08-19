@@ -16,8 +16,8 @@
 ターミナルを開き、下記コマンドで環境を構築します。
 ```
 # コード配置
-$ git clone https://github.com/tkdev01/nuxt-sample.git
-$ cd nuxt-sample
+$ git clone https://github.com/tkdev01/nuxt-docker.git
+$ cd nuxt-docker
 
 # dockerイメージを構築する
 $ docker-compose build
